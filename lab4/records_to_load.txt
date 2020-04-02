@@ -1,0 +1,4 @@
+Juan Stenner|Paseos del Sol|33-33-33-33-33|juan.stenner@oracle.com
+Esther Rivas|Zapopan|44-44-44-44-44|esther.rivas@hotmail.com
+Francisco Corral|Ciudad del Sol|11-11-11-11-11|francisco.corral@hotmail.com
+Guido Python|Guido Address|22-22-22-22-22|guido.python@yahoo.com
