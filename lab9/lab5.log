@@ -1,0 +1,5 @@
+DEBUG 2020-04-21 21:22:20,130 - This is a harmless debug message.
+INFO 2020-04-21 21:22:20,130 - Just some useful info.
+WARNING 2020-04-21 21:22:20,130 - I'm sorry, but i can't do that, Dave.
+ERROR 2020-04-21 21:22:20,130 - Did you just try to divide by zero?
+CRITICAL 2020-04-21 21:22:20,130 - The entire internet is down!!

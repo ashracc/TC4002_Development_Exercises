@@ -1,0 +1,29 @@
+# Course: TC4002 Analysis, Design and Construction of Software Systems
+# Enrollment: A00354823
+# Author: Juan Francisco Corral Stenner
+# Create a github repository
+
+https://github.com/ashracc/TC4002_Development_Exercises
+
+git init				# Initialize Git Repo
+git add <file>			# Add Files(s) to index
+git add .				# Adds all to staging status
+git rm --chached <file>	# Remove from staging area
+git status				# Check Status of working tree
+git commit -m "msg"		# Commint Changes in index
+git push				# Push to remote repository
+git pull				# Pull the latest from remote repo
+git clone				# Clone repo into a new directory
+
+git config --global user.name 'Juan Stenner'
+git config --global user.email 'juan.stenner@oracle.com'
+
+touch .gitignore				# list of files to ignore. Supports globbing
+git branch myBranch				# creates a branch
+git checkout myBranch			# changes to myBranch branch
+# from master
+  git merge myBranch			# merges the branches
+
+git remote						# lists the remote repositories
+git remote add origin <repo>	# add the remote repository
+git push -u origin master		# push to the remote repository
