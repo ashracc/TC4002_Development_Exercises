@@ -1,0 +1,8 @@
+[INFO] <2020/04/22 17:22:14> <print_records: Printing records>
+[INFO] <2020/04/22 17:22:14> <create_record: Creating 'Esther Rivas' user>
+[INFO] <2020/04/22 17:22:14> <create_record: Appending 'Esther Rivas' to records>
+[INFO] <2020/04/22 17:22:14> <print_records: Printing records>
+[INFO] <2020/04/22 17:22:14> <save_records_to_file: Saving records to 'lab2-15-records.txt'>
+[INFO] <2020/04/22 17:22:14> <load_records_from_file: Loading records from 'lab2-15-records.txt'>
+[INFO] <2020/04/22 17:22:14> <load_records_from_file: lab2-15-records.txt successfully read>
+[INFO] <2020/04/22 17:22:14> <search_record: Searching for user at index '1'>
