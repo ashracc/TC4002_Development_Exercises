@@ -1,0 +1,11 @@
+.idea/
+Lib/
+Scripts/
+lab5/.coverage
+lab6/__pycache__/
+lab6/epstopdf.log
+lab6/html/
+lab6/latex/
+pyvenv.cfg
+lab6/dconfig
+lab.7.txt
